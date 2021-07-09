@@ -5,15 +5,15 @@ TUPLES AND NAMED TUPLES****
 **Tuples :**
 A Tuple is a collection of Python objects separated by commas. In someways a tuple is similar to a list in terms of indexing, nested objects and repetition but a tuple is immutable unlike lists which are mutable.
 
-**Contents ****
-SOLUTIONS FOR THE ASSIGNMENT**
+**Contents **
+
 session_9.py
 session_9_test.py
 README.md
 
 
-**
-SOLUTIONS FOR THE ASSIGNMENT**
+
+**SOLUTIONS FOR THE ASSIGNMENT**
 
 Functions:
 1) get_named_tuple : This function generates a fake person details and return the information.
