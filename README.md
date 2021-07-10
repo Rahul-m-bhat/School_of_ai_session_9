@@ -30,3 +30,7 @@ Functions:
     'com_name', "symbol", 'open_value', 'high_value', 'close_value','weight' and returns the company list and company market value list.
 
 7) get_stockmarket_points : This function calculates the stock markets opening point , highest point , closing point. The points are calculated by multiplying the values with the normalized weights and summing up all the values.
+
+
+NOTE: YOU CAN FIND THE COLAB NOTEBOOK FOR OUTPUTS OF EACH FUNCTIONS
+
